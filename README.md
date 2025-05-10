@@ -124,6 +124,7 @@ A modern, full-stack library management system that enables efficient management
 # Frontend (.env)
 VITE_API_URL=http://localhost:8080
 VITE_AWS_S3_URL=your-s3-url
+VITE_USER_ROLE = {"a":"xyz","b":"abc"}
 
 # Backend (.env)
 PORT=8080
